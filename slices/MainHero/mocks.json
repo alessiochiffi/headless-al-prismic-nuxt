@@ -1,0 +1,36 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "MainHero",
+    "primary": {
+      "heroImage": {
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        },
+        "alt": "Placeholder image",
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1537498425277-c283d32ef9db?w=900&h=500&fit=crop"
+      },
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Grow magnetic infrastructures",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Enim officia voluptate est sunt reprehenderit amet veniam consectetur nulla in laboris do velit laboris.",
+          "spans": []
+        }
+      ]
+    },
+    "items": [],
+    "slice_type": "main_hero"
+  }
+]

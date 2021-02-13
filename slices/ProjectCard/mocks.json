@@ -1,0 +1,49 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "ProjectCard",
+    "primary": {},
+    "items": [
+      {
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1536924940846-227afb31e2a5?w=900&h=500&fit=crop"
+        },
+        "name": "cultivate robust models"
+      },
+      {
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1536924940846-227afb31e2a5?w=900&h=500&fit=crop"
+        },
+        "name": "redefine web-enabled portals"
+      },
+      {
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1536924940846-227afb31e2a5?w=900&h=500&fit=crop"
+        },
+        "name": "iterate impactful models"
+      }
+    ],
+    "slice_type": "project_card"
+  }
+]
