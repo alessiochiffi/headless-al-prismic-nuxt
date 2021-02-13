@@ -1,1 +1,1 @@
-##Prismic headless + slice machine + Nuxt 🔥
+Prismic headless + slice machine + Nuxt 🔥
