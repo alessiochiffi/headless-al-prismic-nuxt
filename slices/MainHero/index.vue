@@ -2,7 +2,10 @@
   <section class="section-hero">
     <div class="hero__text">
       <h1><prismic-rich-text :field="slice.primary.title" /></h1>
-      <prismic-rich-text :field="slice.primary.description" />
+      <prismic-rich-text
+        style="font-style: italic"
+        :field="slice.primary.description"
+      />
     </div>
     <div class="hero__image">
       <prismic-image :field="slice.primary.heroImage" />
@@ -48,5 +51,6 @@ export default {
   position: absolute;
   bottom: 30px;
   text-align: center;
+  padding: 1rem;
 }
 </style>

@@ -63,6 +63,10 @@ export default {
     width: 100%;
     height: 640px;
     object-fit: cover;
+
+    @media (max-width: 700px) {
+      height: auto;
+    }
   }
 
   &:hover {
