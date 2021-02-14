@@ -31,6 +31,7 @@ export default {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-wrap: wrap;
 
   @media (max-width: 700px) {
     flex-direction: column;
@@ -51,6 +52,9 @@ export default {
   &__title {
     color: white;
     position: absolute;
+    bottom: 20px;
+    left: 0;
+    padding-left: 10px;
     font-size: 2rem;
     transition: transform 1s;
   }
