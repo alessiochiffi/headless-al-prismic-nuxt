@@ -61,7 +61,7 @@ export default {
 
   &__image {
     width: 100%;
-    height: 400px;
+    height: 640px;
     object-fit: cover;
   }
 
