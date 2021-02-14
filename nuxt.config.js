@@ -6,7 +6,7 @@ export default {
   },
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    title: 'artistlab.com',
+    title: '8piddi',
     meta: [
       {
         charset: 'utf-8',
