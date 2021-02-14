@@ -29,6 +29,7 @@ export default {
   display: flex;
   align-items: center;
   justify-content: center;
+  position: relative;
 }
 
 .hero__image {
@@ -43,8 +44,9 @@ export default {
 }
 
 .hero__text {
-  color: black;
+  color: white;
   position: absolute;
-  margin-top: -30px;
+  bottom: 30px;
+  text-align: center;
 }
 </style>
